@@ -1,0 +1,66 @@
+{
+  "name": "treemap",
+  "description": "TreeMap Visualization",
+  "version": "0.1.0",
+  "homepage": "https://github.com/Akshit-/treemap",
+  "contributors": [
+    {
+      "name": "Akshit",
+      "email": "aks.m.18@gmail.com"
+    },
+    {
+      "name": "Vinod",
+      "email": "vinodr.msec@gmail.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Akshit-/treemap.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Akshit-/treemap/issues"
+  },
+  "licenses": [
+    {
+      "type": "Apache 2",
+      "url": "https://github.com/Akshit-/treemap/blob/master/LICENSE"
+    }
+  ],
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha",
+    "build": "mkdirp build && browserify -r ./:treemap -o build/treemap.js",
+    "build-browser": "npm run build",
+    "prepublish": "npm run build",
+    "watch": "watchify -r ./:treemap -v -o build/treemap.js",
+    "sniper": "biojs-sniper ."
+  },
+  "dependencies": {
+    "d3": "^3.5.3",
+    "js-extend": "0.0.2",
+    "prunner": "^1.0.1"
+  },
+  "devDependencies": {
+    "mkdirp": "^0.5.0",
+    "browserify": "6.x",
+    "biojs-sniper": "0.x",
+    "watchify": "^1.0.6",
+    "chai": "1.x",
+    "mocha": "1.x"
+  },
+  "sniper": {
+    "js": [
+      "/build/treemap.js"
+    ],
+    "css": [
+      "/css/style.css"
+    ],
+    "snippets": [
+      "examples"
+    ],
+    "first": "simple"
+  },
+  "keywords": [
+    "biojs"
+  ]
+}

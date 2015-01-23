@@ -1,0 +1,10 @@
+<meta charset="utf-8">
+<script src="build/treemap.js"></script>
+
+<div id=yourDiv></div>
+<script>
+var yourDiv = document.getElementById("yourDiv");
+var treemap = require('treemap');
+var result = treemap.hello('biojs');
+yourDiv.textContent = result;
+</script>

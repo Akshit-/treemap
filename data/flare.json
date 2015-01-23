@@ -1,0 +1,208 @@
+{
+ "name": "Country",
+ "children": [
+  {
+   "name": "Austria",
+   "children": [
+    {
+     "name": "Vienna",
+     "children": [
+      {"name": "17th International Neuroscience Winter Conference", "size": 3938}
+     ]
+    }, 
+    {
+     "name": "Soelden",
+     "children": [
+      {"name": "Advanced Course on Cryo-Electron Tomoga­ra­phy", "size": 7074}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Australia",
+   "children": [
+    {
+     "name": "Perth",
+     "children": [
+      {"name": "    30th International Conference of Alzheimer's Disease International", "size": 721}
+      
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Brazil",
+   "children": [
+    {
+     "name": "Ouro Preto",
+     "children": [
+      {"name": "Co-Infection: A Global Challenge for Disease Control", "size": 721}
+      
+     ]
+    }
+   ]
+  },
+   {
+   "name": "Canada",
+   "children": [
+    {
+     "name": "British Columbia",
+     "children": [
+      {"name": "Genomic Instability and DNA Repair", "size": 3938}
+     ]
+    }, 
+    {
+     "name": "Montreal",
+     "children": [
+      {"name": "3rd World Congress on Controversies, Debates and Consensus in Bone, Muscle and Joint Diseases (BMJD) under the auspices of the IOF and ESCEO", "size": 7074},
+	  {"name": "Dendritic Cells and Macrophages Reunited", "size": 7074}
+     ]
+    },
+    {
+     "name": "Alberta",
+     "children": [
+      {"name": "The Golden Anniversary of B Cell Discovery", "size": 7074},
+	  {"name": "HIV Vaccines", "size": 7074}
+     ]
+    },
+    {
+     "name": "Whistler",
+     "children": [
+      {"name": "Obesity and the Metabolic Syndrome: Mitochondria and Energy Expenditure", "size": 7074}
+     ]
+    },
+    {
+     "name": "Hamilton",
+     "children": [
+      {"name": "Electron Microscopy", "size": 7074}
+     ]
+    }	 
+   ]
+  },
+  {
+   "name": "China",
+   "children": [
+    {
+     "name": "Suzhou",
+     "children": [
+      {"name": "2015 Conference on Tissue Engineering and Regenerative Medicine", "size": 3938},
+	  {"name": "2015 Microbiology and Immunology Conference", "size": 3938},
+	  {"name": "2015 Conference on Advances in Prevention and Treatment of Cancer", "size": 3938},
+	  {"name": "2015 Conference on Laboratory Medicine and Clinical Research", "size": 3938},	  
+	  {"name": "2015 International Conference on Pathology", "size": 3938},
+	  {"name": "Lipid Metabolism and Human Metabolic Disorders", "size": 3938}
+     ]
+    },
+	{
+     "name": "Shenyang",
+     "children": [
+      {"name": "1st Annual International Pharmaceutical Engineering Symposium 2015", "size": 3938}
+     ]
+    },
+	{
+     "name": "Shanghai",
+     "children": [
+      {"name": "The 2nd Asia Pacific Congress on Controversies to Consensus in Diabetes, Obesity and Hypertension", "size": 3938},
+	  {"name": "Phage & Yeast Display", "size": 3938},
+	  {"name": "Asian Oncology Summit 2015", "size": 3938}
+     ]
+    },
+		{
+     "name": "Nangjing",
+     "children": [
+      {"name": "Protein & Peptide conference", "size": 3938}
+     ]
+    }
+	
+   ]
+  },
+  {
+   "name": "Costa Rica",
+   "children": [
+	{
+     "name": "San Josa",
+     "children": [
+      {"name": "Genomics and Epidemiological Surveillance of Bacterial Pathogens", "size": 3938}
+     ]
+    }
+   ]
+  },
+   {
+   "name": "Germany",
+   "children": [
+	{
+     "name": "Leimen",
+     "children": [
+      {"name": "EMBO Laboratory Management Course for Postdocs", "size": 3938}
+     ]
+    },
+		{
+     "name": "Rostock",
+     "children": [
+      {"name": "Workshop for Reproducible Modeling Results", "size": 3938}
+     ]
+    },
+		{
+     "name": "Dusseldorf",
+     "children": [
+      {"name": "14th Annual Biological Production Forum", "size": 3938}
+     ]
+    },
+		{
+     "name": "Cologne",
+     "children": [
+      {"name": "Human ES/iPS Cell Research Training Course", "size": 3938}
+     ]
+    },
+		{
+     "name": "Heidelberg",
+     "children": [
+      {"name": "in vivo Plant Imaging", "size": 3938}
+     ]
+    },
+	{
+     "name": "Berlin",
+     "children": [
+      {"name": "The International Conference on Computer Vision Theory and Applications", "size": 3938}
+     ]
+    },
+	{
+     "name": "Mannheim",
+     "children": [
+      {"name": "42nd Annual Meeting of the Society for Cutaneous Ultrastructure Research", "size": 3938}
+     ]
+    },
+	{
+     "name": "Munich",
+     "children": [
+      {"name": "Immunology of Diabetes Society 14th International Congress", "size": 3938}
+     ]
+    },
+	{
+     "name": "Mainz",
+     "children": [
+      {"name": "Breakthroughs in Epigenetics - An EpiGeneSys-IMB joint workshop", "size": 3938}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "United Kingdom",
+   "children": [
+    {
+     "name": "Norwich",
+     "children": [
+      {"name": "Bioinformatics for Life Scientists", "size": 721}
+     ]
+    },
+    {
+     "name": "London",
+     "children": [
+      {"name": "The 2015 Controlling Cancer Summit ", "size": 721},
+	  {"name": "The 2nd Microbiome Forum: europe", "size": 721} 
+     ]
+    }	
+   ]
+  }
+ ]
+}
