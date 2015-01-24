@@ -5,6 +5,9 @@
 
 > TreeMap Visualization
 
+## Description
+The Treemap visualization is for depicting hierarchies. It uses a rectangular, space-filling slice-and-dice technique to visualize objects in the different levels of a hierarchy. 
+
 ## Getting Started
 Install the module with: `npm install treemap`
 
