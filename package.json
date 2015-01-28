@@ -1,16 +1,38 @@
 {
   "name": "treemap",
   "description": "TreeMap Visualization",
-  "version": "0.1.0",
+  "version": "1.0.4",
   "homepage": "https://github.com/Akshit-/treemap",
   "contributors": [
-    {
-      "name": "Akshit",
-      "email": "aks.m.18@gmail.com"
+   {
+      "name": "Akshit Malhotra",
+      "email": "aks.m.18@gmail.com",
+      "url": "https://de.linkedin.com/pub/akshit-malhotra/69/625/39b"
     },
     {
-      "name": "Vinod",
-      "email": "vinodr.msec@gmail.com"
+      "name": "Vinod Rajendran",
+      "email": "vinodr.msec@gmail.com",
+      "url": "https://de.linkedin.com/pub/vinod-rajendran/a6/536/506"
+
+    },
+    {
+      "name": "Tatyana Goldberg",
+      "url": "https://rostlab.org/~goldberg/"
+    }, {
+      "name": "Juan Miguel Cejuela",
+      "url": "https://www.tagtog.net/"
+    }, {
+      "name": "Sebastian Wilzbach",
+      "url": "http://seb.wilzba.ch"
+    }, {
+      "name": "David Dao",
+      "url": "http://daviddao.de"
+    }, {
+      "name": "Manuel Corpas",
+      "url": "http://manuelcorpas.com"
+    }, {
+      "name": "Prof. Burkhard Rost",
+      "url": "https://en.wikipedia.org/wiki/Burkhard_Rost"
     }
   ],
   "repository": {
@@ -61,6 +83,9 @@
     "first": "simple"
   },
   "keywords": [
-    "biojs"
+    "biojs",
+    "treemap",
+    "partition",
+    "hierarchy"
   ]
 }
